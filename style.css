@@ -195,7 +195,7 @@ header .header-content {
     transform: translateY(-50%);
     margin-left: -15px;
     padding-top: 0px !important;
-    margin-top: 0px;
+    margin: 0;
     top: 290px;
 }
 
@@ -686,7 +686,6 @@ li>span {
 
 .hire-me {
     padding: 100px 0;
-    background-image: url('http://project.lystra.com.tr/jane/img/hire-me.jpg');
 }
 
 .hire-me h2 {
